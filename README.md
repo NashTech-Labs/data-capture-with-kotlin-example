@@ -66,3 +66,5 @@ adb shell am broadcast -a com.zebra.datacapture1.ACTION --es com.symbol.datawedg
 - [Zebra Developer Portal](https://developer.zebra.com/)
 
 
+## About the Author
+This tech hub is maintained by [Nadra Ibrahim](https://www.linkedin.com/in/nadra-ibrahim/), a passionate developer and tech enthusiast. Feel free to connect with them on LinkedIn to learn more about their work and stay updated on the latest developments
