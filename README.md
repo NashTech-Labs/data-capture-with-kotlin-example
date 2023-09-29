@@ -5,6 +5,8 @@ The DataCapture Android application is designed for integration with Zebra DataW
 ## Overview
 
 The DataCapture Android application is built to interact with Zebra DataWedge, a powerful tool for controlling barcode scanning and data capture on Zebra devices. It allows you to create profiles, configure barcode scanning, and receive notifications about scanner status changes.
+![image](https://github.com/ibrahimnadra/DataCaptureWithKotlin/assets/124992299/aea9d1fc-6284-44fc-840e-45cb13b12b60)
+
 
 ## Main Components
 
@@ -59,7 +61,7 @@ adb shell am broadcast -a com.zebra.datacapture1.ACTION --es com.symbol.datawedg
 
 ## Resources
 
-- [Zebra TechDocs]([https://developer.zebra.com/](http://techdocs.zebra.com/datawedge/latest/guide/samples/barcode1/))
+- [Zebra TechDocs](http://techdocs.zebra.com/datawedge/latest/guide/samples/barcode1/)
 - [Zebra DataWedge Documentation](http://techdocs.zebra.com/datawedge/latest/guide/)
 - [Zebra Developer Portal](https://developer.zebra.com/)
 
